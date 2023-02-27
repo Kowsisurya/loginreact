@@ -1,0 +1,633 @@
+.savingsmodeltable {
+    border-style: solid;
+    border-width: 0;
+    border-bottom: 0px solid #fff;
+    border: 0px 1px 0px 0px solid black;
+    color: #000;
+}
+
+.savingsmodeltable th {
+    background-color: #fff;
+}
+
+.savingsmodeltable tr:nth-child(odd) {
+    background-color: #ECF4FF !important;
+    line-height: 0.05rem !important;
+    border-bottom: 0px solid #ECF4FF;
+}
+
+.savingsmodeltable tr:nth-child(even) {
+    background-color: #fff;
+    line-height: 3rem;
+    border-bottom: 0px solid #fff;
+}
+
+.savingsmodeltable table td[class*=col-],
+table th[class*=col-] {
+    border-right: 1px solid black;
+}
+
+.savingsModelCardHeader {
+    font-weight: 500 !important;
+    font-size: 10.24px !important;
+    line-height: 15px !important;
+    color: #000 !important;
+}
+.ri-center-year {
+    white-space: nowrap;
+    margin-top: 7px;
+    margin-left: -6px !important;
+    font-weight: 500;
+    font-size: 9.24px;
+    line-height: 14px;
+    margin-bottom: 14px !important;
+}
+.cardNumberSavingsModelActualPotentialrileft {
+    font-size: 8px !important;
+    font-weight: 600 !important;
+    padding: 0px 0px 0px 8px !important;
+}
+.cardNumberSavingsModelActualPotentialriright {
+    font-size: 8px !important;
+    font-weight: 600 !important;
+    padding: 0px 8px 0px 0px !important;
+}
+
+.cardnumber {
+    font-size: 18px !important;
+    text-align: center !important;
+    font-weight: 500 !important;
+    line-height: 2em !important;
+    /* font-family: 'Poppins' !important; */
+}
+.savings-table-header {
+    font-weight: 500;
+    font-size: 12.24px;
+    line-height: 18px;
+    text-align: center;
+}
+.savingsModelTableBody-head{
+    font-weight: 500 !important;
+    font-size: 12.24px !important;
+    line-height: 18px !important;
+    text-align: center;
+}
+
+.savingsModelTableBody {
+    text-align: center !important;
+    font-weight: 400;
+    font-size: 12.24px;
+    line-height: 21px;
+    padding: 0px !important;
+    /*height: 8px !important; */
+    /* margin: 9px !important; */
+    padding-right: 0px !important;
+    border: none !important;
+    border-right: 1px solid #000 !important;
+}
+.savingsModelTableBody-tr {
+    text-align: right !important;
+    font-weight: 400;
+    font-size: 12.24px;
+    line-height: 21px;
+    padding: 0px !important;
+    /* height: 8px !important; */
+    /* margin: 9px !important; */
+    padding-right: 82px !important;
+    border: none !important;
+    border-right: 1px solid #000 !important;
+}
+tr.savingModelTableStyle:nth-child(even) {
+    background-color: #ecf4ff;
+    
+}
+.savingsModelTableBody-tbody {
+    border-top: none !important;
+}
+.saving-table-padding {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.saving-table-application {
+    text-align: left !important;
+}
+
+.cardNumberSavingsModel {
+    text-align: center !important;
+    font-weight: 400 !important;
+    font-size: 18.24px !important;
+    line-height: 27px !important;
+    color: #000 !important;
+    margin-top: 10px !important;
+}
+.plat-actual-value {
+    color: #000;
+    float: left;
+    font-weight: 400;
+}
+.plat-actual-titla {
+    color: #000;
+    float: left;
+}
+.plat-potential-value {
+    color: #000;
+    font-weight: 400;
+    float: right;
+}
+.plat-saving-card-body {
+    margin: 5px 0px;
+}
+
+.cardNumberSavingsModelActualPotential {
+    font-size: 8px !important;
+    /* line-height: 2em !important; */
+    font-weight: 600 !important;
+    /* margin: 0px 0px !important; */
+    padding: 0px 20px !important;
+}
+
+.savingsModelBarChart {
+    width: 21rem !important;
+    padding: 0.3rem;
+    background-color: #ECF4FF;
+}
+
+.savingsModelDonutChartStyle {
+    background-color: #fff;
+    box-shadow: ' 5px 10px';
+    border: '1px solid lightgray';
+    height: "10rem";
+    min-height: '150px';
+}
+
+/* .savingsModelDonutChartStyle {
+    
+    border-bottom: 15px solid #ECF4FF;
+    border-right: 10px solid #ECF4FF;
+    border-left: 10px solid #ECF4FF;
+} */
+
+.savingsModelTotalSavingsHeader {
+    font-weight: 600;
+    font-size: 14.24px;
+    line-height: 21px;
+    color: #222222;
+}
+
+.savingsModelTotalSavingsCount {
+    line-height: 21px !important;
+    font-weight: 500 !important;
+    font-size: 18.24px !important;
+}
+
+.savingModelTableStyle {
+    line-height: 0.5rem !important;
+}
+.plat-potential-titla {
+    color: #000;
+    float: right;
+}
+
+
+
+.plat-savings-donut-chart {
+    width: auto;
+    background-color: #ecf4ff;
+    padding: 0px 14px 14px 14px;
+    position: relative;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.plat-barchart-icon {
+    position: absolute;
+    top: 15px;
+    right: 16px;
+    /* background-color: #1b5f9d; */
+    font-size: 13px;
+}
+
+.plat-barchart-icon-saving {
+    position: absolute !important;
+    top: 20px !important;
+    right: 30px !important;
+    /* background-color: #1b5f9d !important; */
+    font-size: 20px !important;
+    border-radius: 2px !important;
+    cursor: pointer;
+    color: #1b5f9d !important;
+}
+
+.plat-piechart-icon {
+    position: absolute;
+    top: 355px;
+    right: 16px;
+    /* background-color: #1b5f9d; */
+    font-size: 13px;
+}
+/* .savings-table-table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+} */
+
+
+.plat-donutchart-icon {
+    position: absolute;
+    top: 3px;
+    right: 28px;
+    /* background-color: #1b5f9d; */
+    font-size: 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #1b5f9d;
+}
+.plat-savings-box-body {
+    margin-right: 38px !important;
+    margin-top: 4px !important;
+}
+.plat-savings-box-table-body {
+    margin-top: -26px !important;
+}
+
+.plat-savings-bar-chart {
+    width: auto;
+    background-color: #ecf4ff;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    padding: 14px 14px 0px 14px !important;
+    position: relative;
+}
+
+/* table scroll */
+
+
+
+/* .table-scroll{
+    display: block;
+    empty-cells: show;
+    
+  } */
+  
+  .table-scroll thead {
+    position:relative;
+    display: block;
+    width:100%;
+    overflow-y: scroll;
+    overflow-x: auto;
+  }
+
+  .table-scroll thead::-webkit-scrollbar {
+    width: 10px;
+        height:10px;
+    }
+    
+    .table-scroll thead::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 3px #ecf4ff;
+        background-color: #fff;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    
+  .table-scroll tbody{
+    display: block; 
+    position:relative;
+    width:100%; 
+    overflow-y:scroll;
+    overflow-x: auto;
+  }
+
+  .table-scroll tbody::-webkit-scrollbar {
+        width: 10px;
+        height:10px;
+    }
+
+    .table-scroll tbody::-webkit-scrollbar-track {
+        /* -webkit-box-shadow: inset 0 0 3px #D9E9FF;
+        background-color: #D9E9FF; */
+        background-color: #fff;
+    }
+   
+
+    .table-scroll tbody::-webkit-scrollbar-thumb {
+        background-color: #1b5f9d;
+        border-radius: 10px;
+        border: 2px solid #ffff; 
+    }
+    /* .table-scroll tbody::-webkit-scrollbar-button:single-button {
+        background-color: #D9E9FF;
+        display: block;
+        border-style: solid;
+        height: 10px;
+        width: 10px;
+      }
+    .table-scroll tbody::-webkit-scrollbar-button:single-button:vertical:decrement {
+        border-width: 0 5px 7px 5px;
+        border-color: transparent transparent #1b5f9d transparent;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+      }
+    .table-scroll tbody::-webkit-scrollbar-button:single-button:vertical:increment {
+        border-width: 7px 5px 0 5px;
+        border-color: #1b5f9d transparent transparent transparent;
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
+    } */
+  
+  .table-scroll tr{
+    width: 100%;
+    display:flex;
+  }
+  
+  .table-scroll td,.table-scroll th{
+    flex-basis:100%;
+    flex-grow:2;
+    display: block;
+    padding: 1rem;
+    text-align:left;
+  }
+  
+  
+  .table-scroll.small-first-col td:first-child,
+  .table-scroll.small-first-col th:first-child{
+    flex-basis:20%;
+    flex-grow:1;
+  }
+  
+  
+  .body-half-screen{
+    max-height: 320px;
+  }
+  
+  /* .small-col{flex-basis:10%;} */
+@media only screen and (max-width: 2560px) and (min-width: 2303px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 159px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 2304px) and (min-width: 2179px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 147px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 2160px) and (min-width: 1920px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 136px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 1921px) and (min-width: 1679px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 119px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 1680px) and (min-width: 1599px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 101px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 1600px) and (min-width: 1469px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 94px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 1470px) and (min-width: 1439px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 85px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 1440px) and (min-width: 1366px) {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 85px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media only screen and (max-width: 1366px) and (min-width: 1279px) {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 77px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+
+
+@media only screen and (max-width: 1280px) and (min-width: 1079px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 70px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+
+    .plat-savings-box-body {
+        margin-right: 27px !important;
+        margin-top: 4px !important;
+    }
+}
+@media (max-width: 1024px) {
+    .plat-savings-box-body {
+        margin-right: 0px !important;
+        margin-top: 4px !important;
+    }
+    .savingsModelTotalSavingsHeader {
+        font-size: 0.75rem;
+        font-weight: 800;
+    }
+
+    .savingsModelTotalSavingsCount {
+        font-size: 15px !important;
+        text-align: center !important;
+        font-weight: bold !important;
+        line-height: 2em !important;
+    }
+
+    .cardNumberSavingsModelActualPotential {
+        font-size: 6px !important;
+        line-height: 2em !important;
+        font-weight: 600 !important;
+    }
+
+    .savingsModelBarChart {
+        width: 21rem !important;
+        padding: 0.3rem;
+        background-color: #ECF4FF;
+    }
+    .saving-table-padding {
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+    }
+    .savingsModelTableBody {
+        text-align: center !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px ;
+        /* height: 8px !important; */
+        /* margin: 9px !important; */
+        padding-right: 0px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+
+
+}
+@media only screen and (max-width: 1080px) and (min-width: 1023px) {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 55px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media (max-width: 1024px)  {
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 55px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+@media (max-width: 768px) {
+
+    .savingsModelCardStyle {
+        text-align: center;
+    }
+
+    .savingsModelBarChart {
+        width: auto !important;
+        padding: 0.3rem;
+        background-color: #ECF4FF;
+    }
+
+
+    .cardNumberSavingsModelActualPotential {
+        font-size: 10px !important;
+        line-height: 2em !important;
+        font-weight: 600 !important;
+    }
+
+    .savingsModelTotalSavingsHeader {
+        font-size: 1rem;
+        font-weight: 800;
+    }
+
+    .savingsModelTotalSavingsCount {
+        font-size: 18px !important;
+        text-align: center !important;
+        font-weight: bold !important;
+        line-height: 2em !important;
+    }
+
+    .savingsModelDonutChartStyle {
+        background-color: #fff;
+        box-shadow: ' 5px 10px';
+        border: '1px solid lightgray';
+        /* height : "20rem"; */
+        min-height: '100px' !important;
+    }
+    .cardNumberSavingsModel {
+        text-align: center !important;
+        font-weight: 400 !important;
+        font-size: 18.24px !important;
+        line-height: 27px !important;
+        color: #000 !important;
+        margin-top: 4px !important;
+    }
+}
+@media (max-width: 426px)  {
+    .savingsModelTableBody {
+        text-align: center !important;
+        font-weight: 400;
+        font-size: 10.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 0px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+    .savingsModelTableBody-tr {
+        text-align: right !important;
+        font-weight: 400;
+        font-size: 12.24px;
+        line-height: 21px;
+        padding: 0px !important;
+        padding-right: 25px !important;
+        border: none !important;
+        border-right: 1px solid #000 !important;
+    }
+}
+
+
+
+

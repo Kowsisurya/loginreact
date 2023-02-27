@@ -1,0 +1,90 @@
+
+.budget-projected-col {
+    border-radius: 7px !important;
+    width: 234px !important;
+    height: 184px;
+}
+.budget-projected-box{
+    background-color: #ECF4FF;
+    height: 184px;
+    margin: 5px 0px;
+}
+.budget-projected-month-box{
+    background-color: #ECF4FF;
+    height: 100px;
+    margin: 5px 0px;
+}
+.budget-allocated-content {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+    height: 39px;
+    padding-top: 8px;
+}
+.budget-allocated-value {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    padding: 7px;
+    margin: 0px;
+}
+.budget-box-cneter-icon {
+    text-align: center;
+    color: #1B5F9D;
+    font-size: 26px;
+}
+.budget-allocated-witget-content {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+}
+.budget-projected-cost-col {
+    width: 359px !important;
+}
+.budget-projected-cost-box {
+    background-color: #ECF4FF;
+    height: 184px;
+    margin: 5px 0px;
+    border-radius: 7px !important;
+}
+.budget-cost-title {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.budget-cost-value {
+    text-align: center;
+    font-weight: 400;
+    font-size: 12.24px;
+    line-height: 100%;
+}
+.cost-left-box {
+    margin-top: 33px !important;
+}
+.main-box {
+    width: 100%;
+    height: 20px;
+    background: #e7e7e7;
+}
+.boby-box {
+    width: 100%;
+    background: #cb1515 !important;
+    height: 100%;
+}
+.bar-main-div {
+    display: flex;
+}
+.bar-per {
+    padding: 5px;
+}
+.budget-project-month-title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+}

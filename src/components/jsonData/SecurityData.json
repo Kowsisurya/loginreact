@@ -1,0 +1,130 @@
+{
+    "data":[
+        {
+            "question": "How do you securely operate your workload?",
+            "ans": [
+                "a.Separate workloads using accounts",
+                "b.Secure AWS account",
+                "c.Identify and validate control objectives",
+                "d.Keep up to date with security threats",
+                "e.Keep up to date with security recommendations",
+                "f.Automate testing and validation of security controls in pipelines",
+                "g.Identify and prioritize risks using a threat model",
+                "h.Evaluate and implement new security services and features regularly",
+                "i.None of these"
+            ]
+        },
+        {
+            "question": "How do you manage identities for people and machines?",
+            "ans": [
+                "a.Use strong sign-in mechanisms",
+                "b.Use temporary credentials",
+                "c.Store and use secrets securely",
+                "d.Rely on a centralized identity provider",
+                "e.Audit and rotate credentials periodically",
+                "f.Leverage user groups and attributes",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you manage permissions for people and machines?",
+            "ans": [
+                "a.Define access requirements",
+                "b.Grant least privilege access",
+                "c.Establish emergency access process",
+                "d.Reduce permissions continuously",
+                "e.Define permission guardrails for your organization",
+                "f.Manage access based on life cycle",
+                "g.Analyze public and cross account access",
+                "h.Share resources securely",
+                "i.None of these"
+            ]
+        },
+        {
+            "question": "How do you detect and investigate security events?",
+            "ans": [
+                "a.Configure service and application logging",
+                "b.Analyze logs, findings, and metrics centrally",
+                "c.Automate response to events",
+                "d.Implement actionable security events",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you protect your network resources?",
+            "ans": [
+                "a.Create network layers",
+                "b.Control traffic at all layers",
+                "c.Automate network protection",
+                "d.Implement inspection and protection",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you protect your compute resources?",
+            "ans": [
+                "a.Perform vulnerability management",
+                "b.Reduce attack surface",
+                "c.Implement managed services",
+                "d.Automate compute protection",
+                "e.Enable people to perform actions at a distance",
+                "f.Validate software integrity",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you classify your data?",
+            "ans": [
+                "a.Identify the data within your workload",
+                "b.Define data protection controls",
+                "c.Automate identification and classification",
+                "d.Define data lifecycle management",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you protect your data at rest?",
+            "ans": [
+                "a.Implement secure key management",
+                "b.Enforce encryption at rest",
+                "c.Automate data at rest protection",
+                "d.Enforce access control",
+                "e.use mechanisms to keep people away from data",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you protect your data in transit?",
+            "ans": [
+                "a.Implement secure key and certificate management",
+                "b.Enforce encryption in transit",
+                "c.Automate detection of unintended data access",
+                "d.Authenticate network communications",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you anticipate, respond to, and recover from incidents?",
+            "ans": [
+                "a.dentify key personnel and external resources",
+                "b.Develop incident management plans",
+                "c.Prepare forensic capabilities",
+                "d.Automate containment capability",
+                "e.Pre-provision access",
+                "f.Pre-deploy tools",
+                "g.Run game days",
+                "h.None of these"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+

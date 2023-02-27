@@ -1,0 +1,73 @@
+{
+    "data": [
+        {
+            "question": "How do you select Regions to support your sustainability goals?",
+            "ans": [
+                "a.Choose Regions near Amazon renewable energy projects and Regions where the grid has a published carbon intensity that is lower than other locations (or Regions).",
+                "b.None of these"
+            ]
+        },
+        {
+            "question": "How do you take advantage of user behavior patterns to support your sustainability goals?",
+            "ans": [
+                "a.Scale infrastructure with user load",
+                "b.Align SLAs with sustainability goals",
+                "c.Stop the creation and maintenance of unused assets",
+                "d.Optimize geographic placement of workloads for user locations",
+                "e.Optimize team member resources for activities performed",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you take advantage of software and architecture patterns to support your sustainability goals?",
+            "ans": [
+                "a.Optimize software and architecture for asynchronous and scheduled jobs",
+                "b.Remove or refactor workload components with low or no use",
+                "c.Optimize areas of code that consume the most time or resources",
+                "d.Optimize impact on customer devices and equipment",
+                "e.Use software patterns and architectures that best support data access and storage patterns",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you take advantage of data access and usage patterns to support your sustainability goals?",
+            "ans": [
+                "a.Implement a data classification policy",
+                "b.Use technologies that support data access and storage patterns",
+                "c.Use lifecycle policies to delete unnecessary data",
+                "d.Minimize over-provisioning in block storage",
+                "e.Remove unneeded or redundant data",
+                "f.Use shared file systems or object storage to access common data",
+                "g.Minimize data movement across networks",
+                "h.Back up data only when difficult to recreat",
+                "i.None of these"
+            ]
+        },
+        {
+
+            "question": "How do your hardware management and usage practices support your sustainability goals?",
+            "ans": [
+                "a.Use the minimum amount of hardware to meet your needs",
+                "b.Use instance types with the least impact",
+                "c.Use managed services",
+                "d.Optimize your use of GPUs",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do your development and deployment processes support your sustainability goals?",
+            "ans": [
+                "a.Adopt methods that can rapidly introduce sustainability improvements",
+                "b.Keep your workload up to date",
+                "c.Increase utilization of build environments",
+                "d.Use managed device farms for testing",
+                "e.None of these"
+            ]
+        }
+    ]
+}
+
+
+
+
+

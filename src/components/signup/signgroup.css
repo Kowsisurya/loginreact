@@ -1,0 +1,144 @@
+.plat-home-logo {
+    padding: 40px;
+}
+.plat-sign-img-group {
+    position: relative;
+    margin-left: 100px;
+}
+.plat-signup-main-image-info {
+    position: absolute;
+    top: 2px;
+    left: 394px;
+}
+.plat-sign-login-tap {
+    background: #f5faff;
+    border-radius: 5px;
+    margin-right: 532px;
+    height: 100%;
+    margin-left: 409px;
+}
+.plat-signup-image-info {
+    width: 200px;
+}
+a.nav-link.plat-sign-link {
+    position: inherit;
+    width: auto;
+}
+.plat-sign-tabs {
+    padding: 10px 0px !important;
+    justify-content: center;
+}
+a.nav-link.plat-sign-link {
+    position: inherit;
+    width: auto;
+    border-bottom: 2px solid #1b5f9d;
+    font-size: 13px;
+    font-weight: bold;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #1b5f9d !important;
+    border-color: #1b5f9d !important;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #616161;
+    /* background-color: #fff; */
+    border-color: #e0e0e0 #e0e0e0 #fff;
+}
+.plat-signgroup-right-body {
+    padding: 3px 50px;
+}
+.plat-form-label {
+    padding: 7px;
+    margin-left: -2px;
+}
+.plat-lastname{
+    padding: 7px;
+    margin-left: -3px;
+
+}
+.sign-page-link {
+    text-decoration: underline;
+    color: #1b5f9d;
+}
+.plat-loing-btn-body {
+    text-align: center;
+}
+.plat-login-button {
+    color: #fff !important;
+    background: #1b5f9d !important;
+}
+
+/* media query */
+@media (max-width: 1440px)  {
+    .plat-sign-tabs {
+        padding: 10px 0px !important;
+        justify-content: center;
+    }
+}
+@media (max-width: 1024px)  {
+    .plat-sign-img-group {
+        position: relative;
+        margin-left: 0px;
+    }
+    .plat-signup-image {
+        width: 417px;
+    }
+    .plat-signup-main-image-info {
+        position: absolute;
+        top: 15px;
+        left: 298px;
+    }
+    .plat-signup-image-info {
+        width: 139px;
+    }
+    .plat-sign-tabs {
+        padding: 10px 0px !important;
+        justify-content: center;
+    }
+}
+@media (max-width: 768px)  {
+    .plat-sign-tabs {
+        padding: 10px 0px !important;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 426px)  {
+    .plat-signup-image {
+        width: 380px;
+    }
+    .plat-signup-main-image-info {
+        position: absolute;
+        top: 4px;
+        left: 273px;
+    }
+    .plat-sign-tabs {
+        padding: 10px 0px !important;
+        justify-content: center;
+    }
+    .plat-sign-login-tap {
+        background: #f5faff;
+        border-radius: 5px;
+        margin-top: 10px !important;
+    }
+}
+@media (max-width: 376px)  {
+    .plat-signup-image {
+        width: 322px;
+    }
+    .plat-signup-main-image-info {
+        position: absolute;
+        top: -6px;
+        left: 228px;
+    }
+    .plat-sign-tabs {
+        padding: 10px 0px !important;
+        justify-content: center;
+    }
+}
+@media (max-width: 320px)  {
+    .plat-sign-tabs {
+        padding: 10px 0px !important;
+        justify-content: center;
+    }
+}

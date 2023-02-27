@@ -1,0 +1,42 @@
+
+.savings_new_table thead th {
+    background-color: #84AEE7 !important;
+    color: #fff !important;
+    border: none !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 100% !important;
+}
+
+.savings_new_table tbody td {
+    background-color: #ECF4FF !important;
+    color: #000 !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    line-height: 100% !important;
+    border-bottom: 0.37px solid #848484 !important;
+}
+tr.savings-table-footer > td {
+    background: #84AEE7 !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    line-height: 100% !important;
+    border: none !important;
+    
+}
+.savings-table-footer td:first-child {
+    border-bottom-left-radius: 10px;
+}
+.savings-table-footer td:last-child {
+    border-bottom-right-radius: 10px;
+}
+.plat-saving-add-icon {
+    float: right;
+    color: #1B5F9D;
+    padding: 5px;
+    cursor: pointer;
+}
+.plat-saving-table-body {
+    margin-right: 20px;
+}

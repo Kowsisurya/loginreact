@@ -1,0 +1,70 @@
+.dashboardAnalysisPreviousMonthChart {
+    width: '32rem'
+
+}
+
+.dashboardAnalysisCurrentMonthChart {
+    background-color: '#fff';
+    box-shadow: '5px 10px ';
+    border: 1px solid lightgray;
+    padding: '1px 1px 1px 1px';
+    margin-bottom: '40px';
+}
+.analysis-border {
+    border: 0.37px solid #e7e7e7;
+    margin-bottom: 10px;
+    border-radius: 7px;
+}
+.dashboard-analysis-body {
+    margin-top: 15px;
+}
+.previouschart {
+    height: 219px;
+}
+.quick-glance-spend-chart-cal-dashboard-analysis {
+    margin: -63px 181px 0px;
+    width: 14px;
+}
+
+
+
+/* .dashboardLineChart {
+    width: 34%;
+}
+
+.dashboardBarChartPreviousMonth {
+    width: 36%;
+}
+
+.dashboardBarChartCurrentMonth {
+    width: 30%;
+} */
+
+/* @media (max-width: 1024px) {
+
+    .dashboardLineChart,
+    .dashboardBarChartPreviousMonth,
+    .dashboardBarChartCurrentMonth {
+        width: 30%;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+    .dashboardLineChart,
+    .dashboardBarChartPreviousMonth,
+    .dashboardBarChartCurrentMonth {
+        width: 100% !important;
+    }
+}
+
+
+@media (max-width: 760px) {
+
+    .dashboardLineChart,
+    .dashboardBarChartPreviousMonth,
+    .dashboardBarChartCurrentMonth {
+        width: 100%;
+    }
+} */

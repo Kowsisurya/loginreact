@@ -1,0 +1,16 @@
+.plat-zoom-body {
+    transform: scale(3);
+}
+.plat-zoom-dialog{
+    position: absolute !important;
+    left: 40%;
+    top: 30%;
+}
+.trend-chart-body{
+    background: #ECF4FF;
+    border-radius: 3px;
+}
+.quick-glance-spend-chart-cal-new{
+    margin: -28px 405px 0px;
+}
+

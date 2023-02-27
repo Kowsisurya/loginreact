@@ -1,0 +1,163 @@
+{
+    "data":[
+        {
+            "question": "How do you determine what your priorities are?",
+            "ans": [ 
+                "a.Evaluate external customer needs",
+                "b.Evaluate internal customer needs",
+                "c.Evaluate governance requirements",
+                "d.Evaluate compliance requirements",
+                "e.Evaluate threat landscape",
+                "f.Evaluate tradeoffs",
+                "g.Manage benefits and risks",
+                "h.None of these"
+            ]
+
+        },
+        {
+            "question": "How do you structure your organization to support your business outcomes?",
+            "ans": [
+                "a.Resources have identified owners",
+                "b.Processes and procedures have identified owners",
+                "c.Operations activities have identified owners responsible for their performance",
+                "d.Team members know what they are responsible for",
+                "e.Mechanisms exist to identify responsibility and ownership",
+                "f.Mechanisms exist to request additions, changes, and exceptions",
+                "g.Responsibilities between teams are predefined or negotiated",
+                "h.None of these"
+            ]
+        },
+        {
+            "question": "How does your organizational culture support your business outcomes?",
+            "ans": [
+                "a.Executive Sponsorship",
+                "b.Team members are empowered to take action when outcomes are at risk",
+                "c.Escalation is encouraged",
+                "d.Communications are timely, clear, and actionable",
+                "e.Experimentation is encouraged",
+                "f.Team members are enabled and encouraged to maintain and grow their skill sets",
+                "g.Resource teams appropriately",
+                "h.Diverse opinions are encouraged and sought within and across teams",
+                "i.None of these"
+            ]
+        },
+        {
+            "question": "How do you design your workload so that you can understand its state?",
+            "ans": [
+                "a.Implement application telemetry",
+                "b.Implement and configure workload telemetry",
+                "c.Implement user activity telemetry",
+                "d.Implement dependency telemetry",
+                "e.Implement transaction traceability",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you reduce defects, ease remediation, and improve flow into production?",
+            "ans": [
+                "a.Use version control",
+                "b.Test and validate changes",
+                "c.Use configuration management systems",
+                "d.Use build and deployment management systems",
+                "e.Perform patch management",
+                "f.Share design standards",
+                "g.Implement practices to improve code quality",
+                "h.Use multiple environments",
+                "i.Make frequent, small, reversible changes",
+                "j.Fully automate integration and deployment",
+                "k.None of these"
+            ]
+        },
+        {
+            "question": "How do you mitigate deployment risks?",
+            "ans": [
+                "a.Plan for unsuccessful changes",
+                "b.Test and validate changes",
+                "c.Use deployment management systems",
+                "d.Test using limited deployments",
+                "e.Deploy using parallel environments",
+                "f.Deploy frequent, small, reversible changes",
+                "g.Fully automate integration and deployment",
+                "h.Automate testing and rollback",
+                "i.None of these"
+            ]
+        },
+        {
+            "question": "How do you know that you are ready to support a workload?",
+            "ans": [
+                "a.Ensure personnel capability",
+                "b.Ensure consistent review of operational readiness",
+                " c.Use runbooks to perform procedures",
+                "d.Use playbooks to investigate issues",
+                "e.Make informed decisions to deploy systems and changes",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you understand the health of your workload?",
+            "ans": [
+                "a.Identify key performance indicators",
+                "b.Define workload metrics",
+                "c.Collect and analyze workload metrics",
+                "d.Establish workload metrics baselines",
+                "e.Learn expected patterns of activity for workload",
+                "f.Alert when workload outcomes are at risk",
+                "g.Alert when workload anomalies are detected",
+                "h.Validate the achievement of outcomes and the effectiveness of KPIs and metrics",
+                "i.None of these"
+            ]
+        },
+        {
+            "question": "How do you understand the health of your operations?",
+            "ans": [
+                "a.Identify key performance indicators",
+                "b.Define operations metrics",
+                "c.Collect and analyze operations metrics",
+                "d.Establish operations metrics baselines",
+                "e.Learn the expected patterns of activity for operations",
+                "f.Alert when operations outcomes are at risk",
+                "g.Alert when operations anomalies are detected",
+                "h.Validate the achievement of outcomes and the effectiveness of KPIs and metrics",
+                "i.None of these"
+            ]
+        },
+        {
+            "question": "How do you manage workload and operations events?",
+            "ans": [
+                "a.Use processes for event, incident, and problem management",
+                "b.Have a process per alert",
+                "c.Prioritize operational events based on business impact",
+                "d.Define escalation paths",
+                "e.Enable push notifications",
+                "f.Communicate status through dashboards",
+                "g.Automate responses to events",
+                "h.None of these"
+            ]
+        },
+        {
+            "question": "How do you evolve operations?",
+            "ans": [
+                "a.Have a process for continuous improvement",
+                "b.Perform post-incident analysis",
+                "c.Implement feedback loops",
+                "d.Perform Knowledge Management",
+                "e.Define drivers for improvement",
+                "f.Validate insights",
+                "g.Perform operations metrics reviews",
+                "h.Document and share lessons learned",
+                "i.Allocate time to make improvements",
+                "j.None of these"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,156 @@
+{
+    "data":[
+        {
+            "question": "How do you manage service quotas and constraints?",
+            "ans": [
+                "a.Aware of service quotas and constraints",
+                "b.Manage service quotas across accounts and regions",
+                "c.Accommodate fixed service quotas and constraints through architecture",
+                "d.Monitor and manage quotas",
+                "e.Automate quota management",
+                "f.Ensure that a sufficient gap exists between the current quotas and the maximum usage to accommodate failover",
+                "g. None"
+            ]
+        },
+        {
+            "question": "How do you plan your network topology?",
+            "ans": [
+                "a.Use highly available network connectivity for your workload public endpoints",
+                "b.Provision redundant connectivity between private networks in the cloud and on-premises environments",
+                "c.Ensure IP subnet allocation accounts for expansion and availability",
+                "d.Prefer hub-and-spoke topologies over many-to-many mesh",
+                "e.Enforce non-overlapping private IP address ranges in all private address spaces where they are connected",
+                "f.None"
+            ]
+        },
+        {
+            "question": "How do you design your workload service architecture?",
+            "ans": [
+                "a.Choose how to segment your workload",
+                "b.Build services focused on specific business domains and functionality",
+                "c.Provide service contracts per API",
+                "d. None"
+            ]
+        },
+        {
+            "question": "How do you design interactions in a distributed system to prevent failures?",
+            "ans": [
+                "a.Identify which kind of distributed system is required",
+                "b.Implement loosely coupled dependencies",
+                "c.Do constant work",
+                "d.Make all responses idempotent",
+                "e.None"
+            ]
+        },
+        {
+            "question": "How do you design interactions in a distributed system to mitigate or withstand failures?",
+            "ans": [
+                "a.Throttle requests",
+                "b.Control and limit retry calls",
+                "c.Fail fast and limit queues",
+                "d.Set client timeouts",
+                "e.Make services stateless where possible",
+                "f.Implement emergency levers",
+                "g. None"
+            ]
+        },
+        {
+            "question": "How do you monitor workload resources?",
+            "ans": [ 
+                "a.Monitor all components for the workload (Generation)",
+                "b.Define and calculate metrics (Aggregation)",
+                "c.Send notifications (Real-time processing and alarming)",
+                "d.Automate responses (Real-time processing and alarming)",
+                "e.Analytics",
+                "f.Conduct reviews regularly",
+                "g.Monitor end-to-end tracing of requests through your system",
+                "h.None of these"
+            ]
+        },
+        {
+            "question": "How do you design your workload to adapt to changes in demand?",
+            "ans": [ 
+                "a.Use automation when obtaining or scaling resources",
+                "b.Obtain resources upon detection of impairment to a workload",
+                "c.Obtain resources upon detection that more resources are needed for a workload",
+                "d.Load test your workload",
+                "e.None of these"
+            ]
+        },
+        {
+
+            "question": "How do you implement change?",
+            "ans": [ 
+                "a.Use runbooks for standard activities such as deployment",
+                "b.Integrate functional testing as part of your deployment",
+                "c.Integrate resiliency testing as part of your deployment",
+                "d.Deploy using immutable infrastructure",
+                "e.Deploy changes with automation",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you back up data?",
+            "ans": [ 
+                "a.Identify and back up all data that needs to be backed up, or reproduce the data from sources",
+                "b.Secure and encrypt backups",
+                "c.Perform data backup automatically",
+                "d.Perform periodic recovery of the data to verify backup integrity and processes",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you use fault isolation to protect your workload?",
+            "ans": [ 
+                "a.None of these",
+                "b.Select the appropriate locations for your multi-location deployment",
+                "c.Automate recovery for components constrained to a single location",
+                "d.Use bulkhead architectures to limit scope of impact",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you design your workload to withstand component failures?",
+            "ans": [ 
+                "a.Monitor all components of the workload to detect failures",
+                "b.Fail over to healthy resources",
+                "c.Automate healing on all layers",
+                "d.Rely on the data plane and not the control plane during recovery",
+                "e.Use static stability to prevent bimodal behavior",
+                "f.Send notifications when events impact availability",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you test reliability?",
+            "ans": [ 
+                "a.Use playbooks to investigate failures",
+                "b.Perform post-incident analysis",
+                "c.Test functional requirements",
+                "d.Test scaling and performance requirements",
+                "e.Test resiliency using chaos engineering",
+                "f.Conduct game days regularly",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you plan for disaster recovery (DR)?",
+            "ans": [ 
+                "a.Define recovery objectives for downtime and data loss",
+                "b. Use defined recovery strategies to meet the recovery objectives",
+                "c.Test disaster recovery implementation to validate the implementation",
+                "d.Manage configuration drift at the DR site or Region",
+                "e.Automate recovery",
+                "f.None of these"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+

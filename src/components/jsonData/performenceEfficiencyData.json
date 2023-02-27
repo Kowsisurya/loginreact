@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "question": "How do you select the best performing architecture?",
+            "ans": [
+                "a.Understand the available services and resources",
+                "b.Define a process for architectural choices",
+                "c.Factor cost requirements into decisions",
+                "d.Use policies or reference architectures",
+                "e.Use guidance from your cloud provider or an appropriate partner",
+                "f.Benchmark existing workloads",
+                "g.Load test your workload",
+                "h.None of these"
+            ]
+        },
+        {
+            "question": "How do you select your compute solution?",
+            "ans": [
+                "a.Evaluate the available compute options",
+                " b.Understand the available compute configuration options",
+                "c.Collect compute-related metrics",
+                "d.Determine the required configuration by right-sizing",
+                "e.Use the available elasticity of resources",
+                "f.Re-evaluate compute needs based on metrics",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you select your storage solution?",
+            "ans": [
+                "a.Understand storage characteristics and requirements",
+                "b.Evaluate available configuration options",
+                "c.Make decisions based on access patterns and metrics",
+                "d.None of these"
+            ]
+        },
+        {
+            "question": "How do you select your database solution?",
+            "ans": [
+                "a.Understand data characteristics",
+                "b.Evaluate the available options",
+                "c.Collect and record database performance metrics",
+                "d.Choose data storage based on access patterns",
+                "e.Optimize data storage based on access patterns and metrics",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you configure your networking solution?",
+            "ans": [
+                "a.Understand how networking impacts performance",
+                "b.Evaluate available networking features",
+                "c.Choose appropriately sized dedicated connectivity or VPN for hybrid workloads",
+                "d.Leverage load-balancing and encryption offloading",
+                "e.Choose network protocols to improve performance",
+                "f.Choose your workload’s location based on network requirements",
+                "g.Optimize network configuration based on metrics",
+                "h.None of these"
+            ]
+        },
+        {
+            "question": "How do you evolve your workload to take advantage of new releases?",
+            "ans": [
+                "a.Stay up-to-date on new resources and services",
+                "b.Define a process to improve workload performance",
+                "c.Evolve workload performance over time",
+                "d.None of these"
+            ]
+        },
+        {
+            "question": "How do you monitor your resources to ensure they are performing?",
+            "ans": [
+                "a.Record performance-related metrics",
+                "b.Analyze metrics when events or incidents occur",
+                "c.Establish Key Performance Indicators (KPIs) to measure workload performance",
+                "d.Use monitoring to generate alarm-based notifications",
+                "e.Review metrics at regular intervals",
+                "f.Monitor and alarm proactively",
+                "g.None of these"
+            ]
+        },
+        {
+
+            "question": "How do you use tradeoffs to improve performance?",
+            "ans": [
+                "a.Understand the areas where performance is most critical",
+                "b.Learn about design patterns and services",
+                "c.Identify how tradeoffs impact customers and efficiency",
+                "d.Measure the impact of performance improvements",
+                "e.Use various performance-related strategies",
+                "f.None of these"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+.plat-modal-dialog {
+    max-width: 900px !important;
+}
+@media (max-width: 768px)  {
+    .plat-modal-dialog {
+        max-width: 605px !important;
+    }
+}
+@media (max-width: 426px)  {
+    .plat-modal-dialog {
+        max-width: 405px !important;
+    }
+}
+@media (max-width: 320px)  {
+    .plat-modal-dialog {
+        max-width: 380px !important;
+    }
+}

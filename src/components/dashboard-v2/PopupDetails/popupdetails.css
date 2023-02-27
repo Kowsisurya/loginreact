@@ -1,0 +1,21 @@
+.plat-popup-tagging-body {
+    text-align: left;
+    margin: 22px;
+}
+.plat-popup-tagging-title {
+    font-size: 20px;
+    margin-top: 39px;
+}
+.plat-popup-tagging-list {
+    font-size: 11px;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.plat-popup-tagging-main-body {
+    background: #ECF4FF;
+    border-radius: 7px;
+}
+.plat-popup-tagging-body {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}

@@ -1,0 +1,119 @@
+{
+    "data":[
+        {
+            "question": "How do you implement cloud financial management?",
+            "ans": [
+                "a.Establish a cost optimization function",
+                "b.Establish a partnership between finance and technology",
+                "c.Establish cloud budgets and forecasts",
+                "d.Implement cost awareness in your organizational processes",
+                "e.Report and notify on cost optimization",
+                "f.Monitor cost proactively",
+                "g.Keep up to date with new service releases",
+                "h.None of these"
+            ]
+        },
+        {
+            "question": "How do you govern usage?",
+            "ans": [
+                "a.Develop policies based on your organization requirements",
+                "b.Implement goals and targets",
+                "c.Implement an account structure",
+                "d.Implement groups and roles",
+                "e.Implement cost controls",
+                "f.Track project lifecycle",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you monitor usage and cost?",
+            "ans": [
+                "a.Configure detailed information sources",
+                "b.Identify cost attribution categories",
+                "c.Establish organization metrics",
+                "d.Configure billing and cost management tools",
+                "e.Add organization information to cost and usage",
+                "f.Allocate costs based on workload metrics",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you decommission resources?",
+            "ans": [
+                "a.Track resources over their life time",
+                "b. Implement a decommissioning process",
+                "c.Decommission resources",
+                "d.Decommission resources automatically",
+                "e.None of these"
+            ]
+        },
+        {
+            "question": "How do you evaluate cost when you select services?",
+            "ans": [
+                "a.Identify organization requirements for cost",
+                "b.Analyze all components of this workload",
+                "c.Perform a thorough analysis of each component",
+                "d.Select software with cost effective licensing",
+                "e.Select components of this workload to optimize cost in line with organization priorities",
+                "f.Perform cost analysis for different usage over time",
+                "g.None of these"
+            ]
+        },
+        {
+            "question": "How do you meet cost targets when you select resource type, size and number?",
+            "ans": [
+                "a.Perform cost modeling",
+                "b.Select resource type, size, and number based on data",
+                "c.Select resource type, size, and number automatically based on metrics",
+                "d.None of these"
+            ]
+        },
+        {
+            "question": "How do you use pricing models to reduce cost?",
+            "ans": [
+                "a.Perform pricing model analysis",
+                "b.Implement regions based on cost",
+                "c.Select third party agreements with cost efficient terms",
+                "d.Implement pricing models for all components of this workload",
+                "e.Perform pricing model analysis at the master account level",
+                "f.None of these"
+            ]
+        },
+        {
+            "question": "How do you plan for data transfer charges?",
+            "ans": [
+                "a.Perform data transfer modeling",
+                "b.Select components to optimize data transfer cost",
+                "c.Implement services to reduce data transfer costs",
+                "d.None of these"
+            ]
+        },
+        {
+            "question": "How do you manage demand, and supply resources?",
+            "ans": [
+                "a.Perform an analysis on the workload demand",
+                "b.Implement a buffer or throttle to manage demand",
+                "c.Supply resources dynamically",
+                "d.None of these"
+            ]
+        },
+        {
+            "question": "How do you evaluate new services?",
+            "ans": [
+                "a.Develop a workload review process",
+                "b.Review and analyze this workload regularly",
+                "c.None of these"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
